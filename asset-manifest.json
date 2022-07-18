@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vsim1964.github.io/csb-nzqzon/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://vsim1964.github.io/csb-nzqzon/static/js/main.1d14dd4a.chunk.js",
+    "main.js.map": "https://vsim1964.github.io/csb-nzqzon/static/js/main.1d14dd4a.chunk.js.map",
+    "runtime-main.js": "https://vsim1964.github.io/csb-nzqzon/static/js/runtime-main.65e85dbb.js",
+    "runtime-main.js.map": "https://vsim1964.github.io/csb-nzqzon/static/js/runtime-main.65e85dbb.js.map",
+    "static/js/2.789e2fab.chunk.js": "https://vsim1964.github.io/csb-nzqzon/static/js/2.789e2fab.chunk.js",
+    "static/js/2.789e2fab.chunk.js.map": "https://vsim1964.github.io/csb-nzqzon/static/js/2.789e2fab.chunk.js.map",
+    "index.html": "https://vsim1964.github.io/csb-nzqzon/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://vsim1964.github.io/csb-nzqzon/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.789e2fab.chunk.js.LICENSE.txt": "https://vsim1964.github.io/csb-nzqzon/static/js/2.789e2fab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65e85dbb.js",
+    "static/js/2.789e2fab.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.1d14dd4a.chunk.js"
+  ]
+}
